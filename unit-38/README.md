@@ -1,6 +1,6 @@
-# 38 - Unit 38
+# Unit 38
 
-## 38.1 - Lesson 1
+## Lesson 1
 
 ### Communication
 
@@ -70,7 +70,7 @@ We can use questions using who/ what to ask about the subject.
 - vacation
 - written
 
-## 38.2 - Lesson 2
+## Lesson 2
 
 ### Communication
 
@@ -132,3 +132,31 @@ We can use `as ... as` with adjectives and adverbs to show if two people or thin
 - Mandarin
     `the official language of China, spoken by most educated Chinese people.`
 - patio
+
+## Lesson 3
+
+### Communication
+
+### Grammar
+
+### Vocabulary
+
+- annoy
+- assure
+    `to tell someone that something will definetely happen or is definetely true so that they are less worried.`
+- careless
+- delighted
+- divine
+    `very pleased and happy`
+- disappoint
+- eater
+- essential
+- fond
+- inspector
+- please
+- pointless
+    `worthless or not likely to have any useful result`
+- tolerate
+- unsanitary
+- upset
+- value
