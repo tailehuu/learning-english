@@ -143,7 +143,7 @@ We can use `as ... as` with adjectives and adverbs to show if two people or thin
 
 - annoy
 - assure
-    `to tell someone that something will definetely happen or is definetely true so that they are less worried.`
+    `to tell someone that something will definitely happen or is definitely true so that they are less worried.`
 - careless
 - delighted
 - divine
