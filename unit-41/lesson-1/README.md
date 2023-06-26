@@ -5,6 +5,33 @@
 ### Communication
 ### Grammar
 
+#### It + Adjective + Infinitive
+
+We use **it + be + adjective + infinitive** to show how someone feels about doing something.
+
+- It's difficult to pass the exam.
+- It wasn't easy to pass the exam.
+- It's impossible to pass the exam.
+- It's wonderful to see you.
+- It's great to hear that you passed the exam.
+- It's exciting to visit another country.
+
+#### Verb + Infinitive
+
+We use **a verb + an infinitive** when we want to talk about why someone does something.
+
+- He **went** to the shop **to buy** a newspaper.
+=> The reason for going to the shop was to buy a newspaper.
+- She came to see me.
+- We study to pass our exams.
+- I use a hairdryer to dry my hair.
+
+_Note:_ We use the gerund (-ing) if we want to talk about the purpose of something.
+
+- The hairdryer is for **drying** my hair.
+- What is this method for?
+- What does this method use for?
+
 #### Model Verbs
 
 We use modal verbs such as **should**, **could**, and **can** and their negatives to describe whether or not 
