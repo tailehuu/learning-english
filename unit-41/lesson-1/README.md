@@ -21,7 +21,9 @@ We use **it + be + adjective + infinitive** to show how someone feels about doin
 We use **a verb + an infinitive** when we want to talk about why someone does something.
 
 - He **went** to the shop **to buy** a newspaper.
-=> The reason for going to the shop was to buy a newspaper.
+
+    => The reason for going to the shop was to buy a newspaper.
+
 - She came to see me.
 - We study to pass our exams.
 - I use a hairdryer to dry my hair.
